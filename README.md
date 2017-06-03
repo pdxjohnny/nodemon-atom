@@ -1,5 +1,7 @@
-Nodemon Atom
+Nodemon Atom UNMAINTAINED
 ---
+
+# I am no longer working on this as I do not use Atom, I will not be fixing issues.
 
 Nodemon Atom is a package to run nodemon from within atom.
 
